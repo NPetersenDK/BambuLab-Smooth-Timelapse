@@ -3,7 +3,8 @@ Make beautiful Timelapses on your Bambu Lab printer using the build in Timelapse
 
 The idea can be used on all Bambu Lab printers, but the designs i have made is for the Bambu Lab A1.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzbIBHHvKSc" frameborder="0" allowfullscreen></iframe>
+Watch it in action here:
+[![A1BenchyTimelapse](https://img.youtube.com/vi/zzbIBHHvKSc/0.jpg)](https://www.youtube.com/watch?v=zzbIBHHvKSc)
 
 ## Requirements
 A door sensor connected to your Raspberry Pi, that is placed on the printer where it can detect when it goes to for taking a picture internally. 
