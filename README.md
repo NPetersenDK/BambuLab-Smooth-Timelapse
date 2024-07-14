@@ -4,6 +4,7 @@ Make beautiful Timelapses on your Bambu Lab printer using the build in Timelapse
 The idea can be used on all Bambu Lab printers, but the designs i have made is for the Bambu Lab A1.
 
 Watch it in action here:
+
 [![A1BenchyTimelapse](https://img.youtube.com/vi/zzbIBHHvKSc/0.jpg)](https://www.youtube.com/watch?v=zzbIBHHvKSc)
 
 ## Requirements
